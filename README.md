@@ -62,3 +62,13 @@ The contact network is never observed.
 
 - Python 3.8+
 - NumPy
+
+## Simulation files
+
+The repository contains 3 notebooks, each representing a simulation-based inference method.
+
+| File | Simulation-Based Inference Method |
+|------|---------|
+| `Naive ABC.ipynb` | Basic rejection ABC |
+| `ABC-MCMC.ipynb` | ABC Markov Chain Monte Carlo (ABC-MCMC) |
+| `SMC-ABC.ipynb` | Sequential Monte Carlo ABC (SMC-ABC) |
